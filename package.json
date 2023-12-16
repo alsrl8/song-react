@@ -39,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.0"
-  }
+  },
+  "homepage": "https://alsrl8.github.io/song-react"
 }
